@@ -1,0 +1,1 @@
+Please run script.py to play the game
