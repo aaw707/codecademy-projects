@@ -1,0 +1,1 @@
+implement some functionality from lodash.js library for practice
