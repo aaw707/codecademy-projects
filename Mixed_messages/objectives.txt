@@ -1,0 +1,9 @@
+to build a message generator program using javascript
+every time a user runs a program, it gives a new, randomized output
+the random output should be made up of at least 3 different pieces of data
+
+create the message:
+What is ___(user's name via input)'s best friend'? 
+___'s best friend is the ___(adv) ___(adj) ___(noun)
+
+e.g. Joe's best friend is the secretly exhilarated watermelon
